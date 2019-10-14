@@ -1,6 +1,6 @@
 # Sam's Learning Journal
 
-today I will learn.
-- markdown
-- growth mindset
-- sandbox learning
+Today I will learn.
+- Markdown
+- Growth mindset
+- Sandbox learning
