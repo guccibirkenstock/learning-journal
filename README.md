@@ -14,7 +14,3 @@ _Definition of growth mindset:_
 - Ask for help if you need it, collaboration is KEY
 - Take breaks, come back to a problem with a fresh perspective and new energy
 - Expect to fail! You learn just as much- if not more- from your mistakes as you do your successes
-
-'''
-unordered lists: use -, '*, or +, with a space bewtween
-'''
