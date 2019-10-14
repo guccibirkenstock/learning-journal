@@ -10,9 +10,15 @@ extensions available when you need them
 
 Emmit is a shorthand language for html and CSS that speeds up your code writing.  Some editors have Emmit built in, some you can add on as a plugin
 
-## The Command line
+## The Command line/terminal/cli(command line interface)
 - A command line, also called _terminal_, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 - a terminal is a developer tool that you can do a lot on, its a way of talking to the computer
 - non-GUI,
 - GUI: graphical user interface, looks like going through folders and locations in the Finder in order to find the file
-- `- crazy` 
+
+file explorer tasks (done in GUI): (you can do all this as a terminal task, and much much more...)
+- find files
+- change directories
+- move and copy files
+- open files
+- make new files/ folders
