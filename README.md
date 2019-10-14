@@ -15,4 +15,6 @@ _Definition of growth mindset:_
 - Take breaks, come back to a problem with a fresh perspective and new energy
 - Expect to fail! You learn just as much- if not more- from your mistakes as you do your successes
 
-'### peace'
+'''
+unordered lists: use -, '*, or +, with a space bewtween
+'''
