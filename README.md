@@ -1,5 +1,5 @@
 # Sam's Learning Journal
-
+> My name is Sam, this is a page to showcase and organize what I've learned.  My GitHub is: https://github.com/sam-thurman 
 Today I will learn.
 1. Markdown
 1. Growth mindset
