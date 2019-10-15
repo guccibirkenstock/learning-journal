@@ -25,7 +25,8 @@ file explorer tasks (done in GUI): (you can do all this as a terminal task, and 
 
 Some commands to memorize
 
-- "ls" list
+- "ls" list files in folder except hidden "ls -a" to show hidden
+- "ls -l" shows what files are writable
 - ". ~" shortcut to home directory
 - "." reference to current directory
 - ".." references parent directory
@@ -34,3 +35,6 @@ Some commands to memorize
 - "rm" remove (use with extreme caution!)
 - "code." opens vs code
 - "touch" creates a new file
+- "add" <filename>
+- "commit" <filename>
+- "push" <filename>
