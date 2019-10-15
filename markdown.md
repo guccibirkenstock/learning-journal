@@ -4,7 +4,7 @@
 - very basic organization (size and style of text, bullet points etc) but not used for styling
 - you can add style using jekyll
 
-###useful commands
+### useful commands
 
 `lists + * -`
 
