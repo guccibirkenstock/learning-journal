@@ -10,3 +10,10 @@ Distributed VCS: allows clients to create mirrored repositories. These data back
 - Git is a DVCS that stores data in a file system made up of snapshots
 - each time you make a commit, Git creates a snapshot of the files and stores a reference to it 
 - Git mostly relies in local operations
+- because Git relies on local files, you can work and update files while offline in Git
+- Git tracks every change made to a file or directory
+- Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data.
+- files in Git can reside in 3 main states. Git states:
+2. committed: Data is securely stored in a local database
+2. 
+2.
