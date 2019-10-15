@@ -1,4 +1,10 @@
-# HTML notes
+# HTML notes 
+### Hyper-Text Markup Language
+- skeleton of the website
+- structure/organization, NOT style or action
+- uses tags(open, closed, self closing) and elements (ex: body, p, nav, header, ol/ul(lists will have li tags for each list item) etc.)
+- can be modified using attributes (ex id=, class=) attributes will almost always be in the opening tag, pretty much *never* in the closing tag.  (id= assigns attributes to a single element, class= assigning attributes to groups of elements)
+
 
 ### Target Audience
 - Every site should be designed for a target audience
@@ -15,3 +21,8 @@
 > card sorting: placing each piece of information that a visitor might need to know on a seperate piece of paper and then organizing the related information into groups
 - each group relates to a page
 - on larger sites, pages can be grouped as well in order to create different sections of the website
+
+### Wireframes
+>  a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+- designers will take the elements that need to appear on each page and start by creating wireframes
+-  involves sketching or shading areas where each element of the page will go 
