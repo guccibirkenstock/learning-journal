@@ -7,3 +7,11 @@
 - Think about the needs your customers are trying to fulfill by visiting your site
 
 ### Site Maps
+> site map:  a diagram of the pages that will be used to structure the site. 
+- will usually begin with the homepage
+- large and compartmentalized websites might have multiple groups of seperate pages, each group needing a home page to link all related information together
+- to help decide what information should go on each page, you can use a technique called *card sorting*
+
+> card sorting: placing each piece of information that a visitor might need to know on a seperate piece of paper and then organizing the related information into groups
+- each group relates to a page
+- on larger sites, pages can be grouped as well in order to create different sections of the website
