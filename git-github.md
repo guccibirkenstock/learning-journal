@@ -25,3 +25,9 @@ The local Git repository has three components:
 1. Working Directory: The actual files reside here.
 1. Index: The area used for staging
 1. Head: Points to the most recent commit
+
+All files in a working (also called a checked out) project file are either in a tracked or untracked state
+- Tracked: Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.
+- Untracked: Untracked files were not in the last snapshot and do not currently reside in the staging area.
+
+- After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
