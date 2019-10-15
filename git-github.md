@@ -33,3 +33,7 @@ All files in a working (also called a checked out) project file are either in a 
 `*` After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
 HEAD- label meaning "you are here"
 usually you gice a snapshot (new commit) a message explaining why the change was made
+
+A `git add <filename>` --> stages file to be committed
+C `git commit -m "description of changes made"` --> commit's changes, creates a snapshot of work in version history
+P `git push` or `git push origin master` (use git push origin master until comfortable with file locations, difference between the two etc.) --> sends commits to GitHub and saves snapshots in your version history
