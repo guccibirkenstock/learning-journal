@@ -22,5 +22,5 @@
 
 `hyperlink [click here](markdown.md)`
 
-code snippet ``````multiple lines``````
+code snippet ````multiple lines````
 
