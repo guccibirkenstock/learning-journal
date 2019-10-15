@@ -14,6 +14,14 @@ Distributed VCS: allows clients to create mirrored repositories. These data back
 - Git tracks every change made to a file or directory
 - Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data.
 - files in Git can reside in 3 main states. Git states:
-2. committed: Data is securely stored in a local database
-2. 
-2.
+1. Committed: data is securely stored in a local database
+1. Modified: file has been changed but not committed to the database
+1. Staged: flagged a file’s changed version to be committed in the next snapshot
+
+- Git has some built in GUI, but you can use third party clients for better visability
+- you can import, clone and edit other people's Git files
+
+The local Git repository has three components:
+1. Working Directory: The actual files reside here.
+1. Index: The area used for staging
+1. Head: Points to the most recent commit
