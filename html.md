@@ -5,7 +5,14 @@
 - uses tags(open, closed, self closing) and elements (ex: body, p, nav, header, ol/ul(lists will have li tags for each list item) etc.)
 - can be modified using attributes (ex id=, class=) attributes will almost always be in the opening tag, pretty much *never* in the closing tag.  (id= assigns attributes to a single element, class= assigning attributes to groups of elements)
 
+### image
+```
+<img src="image.jpg" alt="image name displayed by screen reader" title="image title">
+```
+#### figure/figcaption
+```
 
+```
 ### Target Audience
 - Every site should be designed for a target audience
 - Even if the site has a wide appeal, you can still think about the demographics of a sample of the target audience.
