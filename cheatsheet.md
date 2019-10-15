@@ -22,3 +22,15 @@ file explorer tasks (done in GUI): (you can do all this as a terminal task, and 
 - move and copy files
 - open files
 - make new files/ folders
+
+Some commands to memorize
+
+- "ls" list
+- ". ~" shortcut to home directory
+- "." reference to current directory
+- ".." references parent directory
+- "cd" change directory
+- "mkd" make a directory
+- "rm" remove (use with extreme caution!)
+- "code." opens vs code
+- "touch" creates a new file
