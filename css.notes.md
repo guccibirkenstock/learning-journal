@@ -10,3 +10,30 @@ EXAMPLE
 p{
   font-family: Arial;}
 ```
+##### If there are two or more rules that apply to the same element...
+- if the two selectors are identical, the latter of the two will take precedence
+- if one selector is more specific than the others, the more specifi c rule will take precedence
+- you can add `!important` after any property value to indicate that it should be considered more important than the other rules that apply to the same element
+
+### Color
+- 3 ways to specify color: RBG values, hex codes, color names
+- CSS treats each HTML element as if it appears in a box
+- `background-color` property sets the color of the background *for that box*
+```
+ex
+body {
+background-color: rgb(200,200,200);} 
+h1 {
+background-color: DarkCyan;}
+h2 {
+background-color: #ee3e80;}
+```
+- if you do not set a backround color, then the background is transparent
+
+### Opacity
+value is a number between 0.0 and 1.0 and relates to % opacity
+```
+p.one {
+background-color: rgb(0,0,0);
+opacity: 0.5;}
+```
