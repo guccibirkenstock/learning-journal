@@ -8,8 +8,9 @@
 - value: specify the settings you want to use for the chosen properties (ex. specify color, font size value etc.){Arial}
 ```
 EXAMPLE
-p{
-  font-family: Arial;}
+p {
+  font-family: Arial;
+ }
 ```
 ##### If there are two or more rules that apply to the same element...
 - if the two selectors are identical, the latter of the two will take precedence
@@ -23,16 +24,16 @@ p{
 ```
 *ex*
 body {
-background-color: rgb(200,200,200);
-} 
+    background-color: rgb(200,200,200);
+  } 
 
 h1 {
-background-color: DarkCyan;
-}
+    background-color: DarkCyan;
+  }
 
 h2 {
-background-color: #ee3e80;
-}
+    background-color: #ee3e80;
+  }
 
 ```
 - if you do not set a backround color, then the background is transparent
@@ -41,7 +42,7 @@ background-color: #ee3e80;
 value is a number between 0.0 and 1.0 and relates to % opacity
 ```
 p.one {
-background-color: rgb(0,0,0);
-opacity: 0.5;
-}
+    background-color: rgb(0,0,0);
+    opacity: 0.5;
+   }
 ```
