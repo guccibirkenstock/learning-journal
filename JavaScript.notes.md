@@ -42,3 +42,8 @@ and should appear in your html as
 </html>
 ```
 the HTML `<script>` element is used to load the JavaScript file into the page.  It has an attribute called `src` whose value is the path to the script you created
+
+### data types
+- string: piece of data inside single quotes... ex) 'welcome'
+- boolean: true or false, machine code that translate to a yes/no response
+- numbers
