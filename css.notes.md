@@ -48,7 +48,7 @@ p.one {
 ```
 
 ### even MORE css
-
+when noting rules in css: *classes* start with a period ",", id's start with a #
 ```
 <p class="group">
 <p id="individual">
