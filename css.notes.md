@@ -46,3 +46,17 @@ p.one {
     opacity: 0.5;
    }
 ```
+
+
+
+```
+<p class="group">
+<p id="individual">
+
+.group {
+        color: blue;
+        }
+#individual {
+        color: red;
+        }
+```
