@@ -24,7 +24,7 @@ else {
 
 document.write('<h3>' + greeting + '</h3>');
 ```
-and would appear in your html as 
+and should appear in your html as 
 ```
 <!DOCTYPE html>
 <html>
