@@ -37,3 +37,20 @@ var getName = function (){
   return '<h3>' = 'hello, ' + username + '</h3>';
 }
 ```
+
+```
+if(true){
+//do the thing;
+}
+```
+
+```
+for(this; many; times;){
+//do the thing;
+}
+```
+```
+while(true){
+//do the thing;
+}
+```
