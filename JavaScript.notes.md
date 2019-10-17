@@ -47,3 +47,7 @@ the HTML `<script>` element is used to load the JavaScript file into the page.  
 - string: piece of data inside single quotes... ex) 'welcome'
 - boolean: true or false, machine code that translate to a yes/no response
 - numbers
+
+### useful commands
+- `typeof *variable*` will tell you what type of data (string, number, boolean)
+- `===` strict equals
