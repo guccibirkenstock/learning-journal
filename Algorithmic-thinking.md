@@ -18,9 +18,9 @@ false && true = false .
 true && false = false . 
 true && true = true . 
 
-///
-'cat' === 'cat' || 'banana' === 'pizza'
->true
-'cat' === 'cat' && 'banana' === 'pizza'
->false
-///
+>
+'cat' === 'cat' || 'banana' === 'pizza' . 
+true . 
+'cat' === 'cat' && 'banana' === 'pizza' . 
+false . 
+>
