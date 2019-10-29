@@ -27,12 +27,12 @@ false
   
 8. Make decisions based on compared values (true/false)
 >
-if (condition) {     -->
-'code'
-} else if (another condition) {
-'code'
-} else {
-'code'
-}
+if (condition) {  
+'code'  
+} else if (another condition) {  
+'code'  
+} else {  
+'code'  
+}  
 >
 - only one part of code will run, BASED off of the conddition.  Which ever condition evaluates as true, that is the code that will run
