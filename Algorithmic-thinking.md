@@ -3,8 +3,8 @@
 2. Give a name to a piece of info (naming/DECLARING a variable)
 3. Change the value of a variable 
 4. Changing a variable based on itself ( n=1 .... n=n+1)
-5.
-6.
+5. Printing values to the screen
+6. Get values from the user
 7. Comparing values '=== -> equals, !== -> does not equal'  
 when comparing to comparisons...
 false || false  = false  
