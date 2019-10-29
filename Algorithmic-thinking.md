@@ -1,8 +1,8 @@
 # Algorithmic thinking techniques
 1. Giving info to the PC
 2. Give a name to a piece of info (naming/DECLARING a variable)
-3. Change the value of a variable ( n=1 .... n=n+1)
-4.
+3. Change the value of a variable 
+4. Changing a variable based on itself ( n=1 .... n=n+1)
 5.
 6.
 7. Comparing values '=== -> equals, !== -> does not equal'  
